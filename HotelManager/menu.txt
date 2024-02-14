@@ -1,0 +1,10 @@
+1,Sandwich,50.0
+2,Pasta,60.0
+3,Noodles,70.0
+4,Coke,30.0
+5,Pizza,100.0
+6,Burger,45.0
+7,Soup,40.0
+8,Salad,55.0
+9,Steak,120.0
+10,Coffee,35.0
